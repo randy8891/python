@@ -30,7 +30,7 @@ if nic_length == 12:
     year = int(nic[0:4])
     days = int(nic[4:7])
 
-# birth_day = int(0)
+birth_day = int(0)
 gender = "Male"
 
 if days > 500:
